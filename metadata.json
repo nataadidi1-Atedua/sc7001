@@ -1,0 +1,7 @@
+{
+  "name": "EduSmart Pro",
+  "description": "Uma plataforma escolar inteligente com dashboard de notas, agenda de aulas e um assistente acadêmico movido por IA para alunos e professores.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
